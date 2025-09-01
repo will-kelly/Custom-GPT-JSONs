@@ -1,0 +1,16 @@
+Prompt drafting step,Checklist items
+Define the objective,"- What do I need (analysis, draft, brainstorm, etc.)?
+- Who is it for (audience)?
+- What format (essay, post, deck, JSON, etc.)?"
+Provide context,"- Provide background details (role, industry, prior work).
+- Include constraints (word count, style, SEO needs).
+- Add examples or source material."
+Set boundaries,"- State what to avoid (phrases, clichés, framing).
+- Clarify level of detail (overview vs deep dive).
+- Define freshness requirement (evergreen vs recent)."
+Structure the output,"- Specify sections (intro, body, conclusion, CTA).
+- Define style/voice (snarky, formal, persuasive, etc.).
+- Ask for multi-output needs (LinkedIn, Substack, GitHub)."
+Add iteration hooks,"- Request options (3 openings, alt takes).
+- Ask for SEO or condensed summaries.
+- Note that you’ll refine further."
