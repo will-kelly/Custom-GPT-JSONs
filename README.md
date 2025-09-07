@@ -80,5 +80,3 @@ CC0-1.0. See `LICENSE`.
 ## Credits
 
 Maintained by Will Kelly. Built for working writers, editors, and operators who need consistent outputs and less hand-holding.
-```
-
