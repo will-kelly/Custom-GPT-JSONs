@@ -82,5 +82,3 @@ CC0-1.0. See `LICENSE`.
 Maintained by Will Kelly. Built for working writers, editors, and operators who need consistent outputs and less hand-holding.
 ```
 
-[1]: https://github.com/will-kelly/Custom-GPT-JSONs "GitHub - will-kelly/Custom-GPT-JSONs"
-[2]: https://help.openai.com/en/articles/8554397-creating-a-gpt?utm_source=chatgpt.com "Creating a GPT"
